@@ -32,7 +32,7 @@ b=7;
 [^1]: Текст сноски 1
 [^2]: Текст сноски 2
 
-![Ссылка на канал](channels4_profile.jpg)
+![Ссылка на jpg](channels4_profile.jpg)
 
 [![Ссылка на канал](channels4_profile.jpg)](https://www.youtube.com/@ITDoctor)
 
